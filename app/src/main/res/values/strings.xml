@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Организатор скриншотов</string>
+    <string name="search">Поиск</string>
+    <string name="import_screenshots">Импорт скриншотов</string>
+    <string name="home">Главная</string>
+    <string name="categories">Категории</string>
+    <string name="screenshot_details">Детали скриншота</string>
+    <string name="no_screenshots_found">Скриншоты не найдены</string>
+    <string name="processing">Обработка...</string>
+    <string name="extracted_text">Извлеченный текст</string>
+    <string name="summary">Краткое содержание</string>
+    <string name="category">Категория</string>
+    <string name="share">Поделиться</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+</resources>
